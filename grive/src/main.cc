@@ -46,8 +46,8 @@
 #include <iostream>
 #include <unistd.h>
 
-const std::string default_id            = "22314510474.apps.googleusercontent.com" ;
-const std::string default_secret        = "bl4ufi89h-9MkFlypcI7R785" ;
+const std::string default_id            = "640143067439-bteouv30mrbs3g2kv27bett7frh2kje9.apps.googleusercontent.com" ;
+const std::string default_secret        = "BetAaUYICH-kpqWSYTPph0_g" ;
 
 using namespace gr ;
 namespace po = boost::program_options;
